@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from User B
+=======
+Hello From User A
+>>>>>>> 4c58092e90e00cf10b152a5b46751733577fabcd
