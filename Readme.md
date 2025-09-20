@@ -1,34 +1,18 @@
 📌 : Learn hands-on Git and GitHub workflows used in real-world DevOps projects.
 
 
-
-
 : You are working on a new login-page feature and want to merge it back to the main branch.
-
-
-
-
 
 
 Clone repository locally.
 
-
-
 Create a new branch feature/login-page.
-
-
 
 Add a new file login.txt with content: .
 
-
-
 Commit the change.
 
-
-
 Merge the feature branch into main.
-
-
 
 Push updated main branch to remote.
 
